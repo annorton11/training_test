@@ -3,5 +3,5 @@ test repository for learning git
 
 ## Purpose
 
-*practice git
+*practice git   
 *have fun! :)
